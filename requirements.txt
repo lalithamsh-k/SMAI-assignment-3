@@ -3,4 +3,4 @@ streamlit-drawable-canvas
 torch
 torchvision
 Pillow
-opencv-python
+opencv-python-headless
